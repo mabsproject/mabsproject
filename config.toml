@@ -1,0 +1,15 @@
+baseURL = 'https://YetiWilson.github.io/'
+languageCode = 'en-us'
+title = 'Building in Seattle'
+theme = "hugo-theme-learn"
+publishDir = "docs"
+
+[params]
+description = "How I built my house in Seattle"
+showVisitedLinks = true
+disableMermaid = false
+themeVariant = "blue"
+customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
