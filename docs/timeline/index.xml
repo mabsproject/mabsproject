@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Timeline on Building in Seattle</title>
-    <link>https://YetiWilson.github.io/timeline/</link>
-    <description>Recent content in Project Timeline on Building in Seattle</description>
+    <title>Project Timeline on Maintainable Affordable Buildable Sustainable</title>
+    <link>https://mabsproject.org/timeline/</link>
+    <description>Recent content in Project Timeline on Maintainable Affordable Buildable Sustainable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 18:33:15 -0800</lastBuildDate><atom:link href="https://YetiWilson.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 18:33:15 -0800</lastBuildDate><atom:link href="https://mabsproject.org/timeline/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

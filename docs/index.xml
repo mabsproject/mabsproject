@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Building in Seattle</title>
-    <link>https://YetiWilson.github.io/</link>
-    <description>Recent content on Building in Seattle</description>
+    <title>Maintainable Affordable Buildable Sustainable</title>
+    <link>https://mabsproject.org/</link>
+    <description>Recent content on Maintainable Affordable Buildable Sustainable</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jan 2022 19:16:51 -0800</lastBuildDate><atom:link href="https://YetiWilson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jan 2022 19:16:51 -0800</lastBuildDate><atom:link href="https://mabsproject.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

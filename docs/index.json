@@ -1,48 +1,48 @@
 [
 {
-	"uri": "https://YetiWilson.github.io/timeline/",
+	"uri": "https://mabsproject.org/timeline/",
 	"title": "Project Timeline",
 	"tags": [],
 	"description": "",
 	"content": " gantt dateFormat YYYY-MM-DD title Adding GANTT diagram functionality to mermaid section A section Completed task :done, des1, 2014-01-06,2014-01-08 Active task :active, des2, 2014-01-09, 3d Future task : des3, after des2, 5d Future task2 : des4, after des3, 5d section Critical tasks Completed task in the critical line :crit, done, 2014-01-06,24h Implement parser and jison :crit, done, after des1, 2d Create tests for parser :crit, active, 3d Future task in critical line :crit, 5d Create tests for renderer :2d Add to mermaid :1d  "
 },
 {
-	"uri": "https://YetiWilson.github.io/costs/",
+	"uri": "https://mabsproject.org/costs/",
 	"title": "Costs",
 	"tags": [],
 	"description": "",
 	"content": "   Date Item Vendor Cost Description Notes     10-OCT-2021 Project Retainer Method Homes $12,800 Pre-Construction retainer 1/2 paid up front   21-DEC-2021 GEO Tech Pan Geo Tech $3,500 Deposit site soil analysis Paid in 2 installments 50/50      "
 },
 {
-	"uri": "https://YetiWilson.github.io/basics/",
+	"uri": "https://mabsproject.org/basics/",
 	"title": "Why Build?",
 	"tags": [],
 	"description": "",
 	"content": "Why Build? We really need more room Seattle is a very dense and populated city. Land is hard to find and when you do find it King County has a lot of rules on how you can build. We have learned over the last few years that building new is not for everyone and if you decide to go this route be prepared to spend a lot of time on the project.\nThis will be our place to document everything we go through including each phase of the project, expected timeline versus reality and the costs associated.\nWe hope you enjoy and this helps you in making your decision of to build or not to build!\n"
 },
 {
-	"uri": "https://YetiWilson.github.io/phase1/",
+	"uri": "https://mabsproject.org/phase1/",
 	"title": "Phases",
 	"tags": [],
 	"description": "",
 	"content": "Phases Outline of the building process These are the phases of our project\n"
 },
 {
-	"uri": "https://YetiWilson.github.io/",
-	"title": "Building in Seattle",
+	"uri": "https://mabsproject.org/",
+	"title": "Maintainable Affordable Buildable Sustainable",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://YetiWilson.github.io/categories/",
+	"uri": "https://mabsproject.org/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://YetiWilson.github.io/tags/",
+	"uri": "https://mabsproject.org/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

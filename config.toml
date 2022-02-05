@@ -1,11 +1,11 @@
-baseURL = 'https://YetiWilson.github.io/'
+baseURL = 'https://mabsproject.org'
 languageCode = 'en-us'
-title = 'Building in Seattle'
+title = 'Maintainable Affordable Buildable Sustainable'
 theme = "hugo-theme-learn"
 publishDir = "docs"
 
 [params]
-description = "How I built my house in Seattle"
+description = "Make building a home pratical"
 showVisitedLinks = true
 disableMermaid = false
 themeVariant = "blue"
